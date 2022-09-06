@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DarGrz/YouTube-Clone/static/css/main.7064deb2.css",
+    "main.js": "/DarGrz/YouTube-Clone/static/js/main.5cc6b3e8.js",
+    "index.html": "/DarGrz/YouTube-Clone/index.html",
+    "main.7064deb2.css.map": "/DarGrz/YouTube-Clone/static/css/main.7064deb2.css.map",
+    "main.5cc6b3e8.js.map": "/DarGrz/YouTube-Clone/static/js/main.5cc6b3e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.5cc6b3e8.js"
+  ]
+}
