@@ -1,4 +1,4 @@
-<h1><h1>Heating Pumps Comparison App</h1>
+<h1>YouTube Clone</h1>
 <p>This is a web application built with React.js that clones the functionality of YouTube. The app allows users to search for and watch videos, as well as upload their own videos.</p>
 <br>
 <h3>Features</h3>
